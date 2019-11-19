@@ -1,3 +1,4 @@
+#!/usr/bin/env bash 
 # function to create the collections
 createCollection(){
     DB="donut1"
